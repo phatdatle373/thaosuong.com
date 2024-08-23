@@ -10,7 +10,7 @@ ImgLink_Avatar = "https://i.postimg.cc/ZKCcWw9R/S-ng.png"
 Nickname_Profile = "Đỗ Thị Thảo Sương"
 
 //Tên Thật
-RealName_Profile = ""
+RealName_Profile = "Khoa Ngoại Ngữ"
 
 //Các Link Của Bạn
 LinkInformation = [
